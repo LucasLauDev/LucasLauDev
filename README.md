@@ -25,7 +25,7 @@ and other high level languages like C++ and C#
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) : NextJS
 
 ## My Github Status
-![Qiu Chen's Github Stat](https://github-readme-stats.vercel.app/api/?username=xXQiuChenXx&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)
+![Qiu Chen's Github Stat](https://github-readme-stats.vercel.app/api/?username=LucasLauDev&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)
 
 ### Mostly used programming languagues 
-![Mostly used programming languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=xXQiuChenXx&show_icons=true&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=43B581&border_radius=10)
+![Mostly used programming languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLauDev&show_icons=true&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=43B581&border_radius=10)
